@@ -44,7 +44,7 @@ This project is released under the [MIT License](LICENSE). Feel free to use, mod
 - USDT (BEP20) : 0x1fdc7540f33b1044e9bcbaccf55035c3bbe63146
 - USDT (TRC20) : TMwGEGuZ1BAK98fbnrJTAkiw9gcidsjR39
 - HIVE : @barrriwa
-- PayPal : chafik.coin@gmail.com
+- PayPal : [https://www.paypal.com/ncp/payment/PMS2NWYCQYJ8J](https://www.paypal.com/ncp/payment/PMS2NWYCQYJ8J)
 ## ❌ Disclaimer
 - This project is provided for **educational purposes only**.  
 - Users are solely responsible for ensuring their use complies with **VFS Global's terms of service** and **local laws**.  
