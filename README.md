@@ -16,7 +16,8 @@ Automation script built with [Browser Automation Studio (BAS)](https://bablosoft
 ## ⚙️ Requirements  
 - [Browser Automation Studio (BAS)](https://bablosoft.com/shop/BrowserAutomationStudio) installed.  
 - The `.xml` project file imported into BAS.  
-- Occasional manual project updates if BAS releases a new version (BAS usually prompts to upgrade automatically).  
+- Occasional manual project updates if BAS releases a new version (BAS usually prompts to upgrade automatically).
+- For fingerprint emulation, you need to download and install [this fontpack](https://wiki.bablosoft.com/doku.php?id=fontpack)
 
 ## 🚀 Usage  
 1. Open BAS and import the `vfsauto.xml` file by downloading it or clicking "Open From URL".  
