@@ -1,6 +1,9 @@
 # vfsauto  
 
-Automation script built with [Browser Automation Studio (BAS)](https://bablosoft.com/shop/BrowserAutomationStudio) to monitor and book visa appointment slots on [VFS Global](https://www.vfsglobal.com) websites. It includes advanced interaction and anti-detection features, as well as optional Telegram notifications.  
+Automation script built with [Browser Automation Studio (BAS)](https://bablosoft.com/shop/BrowserAutomationStudio) to monitor and book visa appointment slots on [VFS Global](https://www.vfsglobal.com) websites. It includes advanced interaction and anti-detection features, as well as optional Telegram notifications.
+# UPDATE
+VFSGlobal has added account bans (Thank God), and therefore this script is redundant, however it sill serves as a good proof of work on dealing with CloudFlare, using BAS as well as using FingerPrint Switcher with Perfect Canvas request. 
+I will not be updating this project anymore.
 
 ## ✨ Features  
 - Automated checking of VFS Global appointment calendars.  
